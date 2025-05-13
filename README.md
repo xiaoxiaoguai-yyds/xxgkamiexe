@@ -20,7 +20,7 @@
 
 ## 💻 系统要求
 
-- **操作系统**: Windows 10/11, macOS 10.15+, Linux (Ubuntu 20.04+)
+- **操作系统**: Windows 10/11,
 - **数据库**: MySQL 5.7+ 或 MariaDB 10.3+
 - **存储空间**: 100MB以上
 - **内存**: 4GB以上
@@ -31,16 +31,6 @@
 1. 从[Releases](https://github.com/xiaoxiaoguai-yyds/xxgkamiexe/releases)页面下载最新的Windows安装包(.exe)
 2. 双击安装包运行安装向导
 3. 按照提示完成安装
-
-### macOS
-1. 从[Releases](https://github.com/xiaoxiaoguai-yyds/xxgkamiexe/releases)页面下载最新的macOS安装包(.dmg)
-2. 打开.dmg文件
-3. 将应用程序拖到Applications文件夹中
-
-### Linux
-1. 从[Releases](https://github.com/xiaoxiaoguai-yyds/xxgkamiexe/releases)页面下载最新的Linux安装包(.AppImage)
-2. 赋予执行权限: `chmod +x xxgkamiexe.AppImage`
-3. 直接运行: `./xxgkamiexe.AppImage`
 
 ## 🚀 快速开始
 
@@ -54,8 +44,7 @@
 
 ### 登录系统
 
-- 使用在Web端设置的管理员账号和密码登录
-- 默认的测试账号密码都是"123"
+- 使用自己的账号密码进行登录
 
 ## 🔍 主要功能介绍
 
