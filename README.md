@@ -2,7 +2,7 @@
 
 ![版本](https://img.shields.io/badge/版本-1.0.0-blue)
 ![开源协议](https://img.shields.io/badge/协议-MIT-green)
-![平台](https://img.shields.io/badge/平台-Windows|macOS|Linux-orange)
+![平台](https://img.shields.io/badge/平台-Windows)
 
 小小怪卡密系统桌面管理端是基于Flutter开发的跨平台桌面应用，为[小小怪卡密系统](https://xiaoxiaoguai-yyds.github.io/xxgkami.github.io/)提供强大的本地管理体验，支持多种卡密类型管理、批量操作和高级数据分析。
 
